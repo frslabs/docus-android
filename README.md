@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-v1.1.0-blue)
 
-The Docus SDK is a scanner to scan any documents. The scanner detects for edges and provides options to crop and rotate images before saving. The scanner allows for single or multiple page scanning and collates them as a single file.
+The Docus SDK is a scanner to scan any document. The scanner detects for edges and provides options to crop and rotate images before saving. The scanner allows for single or multiple page scanning and collects them as a single file.
 
 
 # Table Of Content
