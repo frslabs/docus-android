@@ -1,9 +1,10 @@
 # DOCUS ANDROID SDK
 
-![version](https://img.shields.io/badge/version-v1.1.0-blue)
+![version](https://img.shields.io/badge/version-v1.2.0-blue)
 
 The Docus SDK is a scanner to scan any document. The scanner detects for edges and provides options to crop and rotate images before saving. The scanner allows for single or multiple page scanning and collects them as a single file.
 
+‼ ATTENTION ‼ → BREAKING CHANGE introduced at Docus SDK `v1.2.0`. We have introduced a new license format. If you are using versions prior to `v1.2.0` and intend to update to `v1.2.0`, contact frslabs@support.com for an updated license.
 
 # Table Of Content
 
@@ -84,7 +85,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
     implementation "androidx.cardview:cardview:1.0.0"
    
-    implementation 'com.frslabs.android.sdk:docus:1.1.0'
+    implementation 'com.frslabs.android.sdk:docus:1.2.0'
     implementation "androidx.exifinterface:exifinterface:1.2.0"
     implementation 'com.davemorrissey.labs:subsampling-scale-image-view:3.10.0'
     
