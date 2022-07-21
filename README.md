@@ -4,7 +4,7 @@
 
 The Docus SDK is a scanner to scan any document. The scanner detects for edges and provides options to crop and rotate images before saving. The scanner allows for single or multiple page scanning and collects them as a single file.
 
-‼ ATTENTION ‼ → BREAKING CHANGE introduced at Docus SDK `v1.2.0`. We have introduced a new license format. If you are using versions prior to `v1.2.0` and intend to update to `v1.2.0`, contact frslabs@support.com for an updated license.
+‼ ATTENTION ‼ → BREAKING CHANGE introduced at Docus SDK `v1.2.0`. We have introduced a new license format. If you are using versions prior to `v1.2.0` and intend to update to `v1.2.0`, contact `support@frslabs.com` for an updated license.
 
 # Table Of Content
 
