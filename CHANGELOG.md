@@ -1,4 +1,4 @@
-# **v1.2.2** - *25-07-2023*
+# **v1.2.3** - *25-07-2023*
 - Bug fixes
 - Improved image cropping logic and UI
 - Added image rotation option on image cropping page
