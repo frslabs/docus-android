@@ -1,3 +1,8 @@
+# **v1.2.2** - *25-07-2023*
+- Bug fixes
+- Improved image cropping logic and UI
+- Added image rotation option on image cropping page
+
 # **v1.2.2** - *30-06-2023*
 - Improved document detection and post-processing
 - Reduced size of SDK
